@@ -146,7 +146,29 @@ trace.jsonl
 ```
 
 ---
+## Run & Test
 
+The project was developed and tested using **Google Colab**.
+
+### Beginner Run Steps
+
+1. Open `Rafeeq_Mini_Capstone.ipynb` in Google Colab.
+2. Run the notebook cells in order.
+3. Complete the Day 1, Day 2, and Day 3 validation gates.
+4. Run the final functional and security assessment.
+5. Review the generated reports and monitoring outputs.
+
+### Expected Outputs
+
+- `assessment_results.json`
+- `SECURITY_ASSESSMENT.md`
+- `PROJECT_REPORT.md`
+- `trace.jsonl`
+- `monitoring_dashboard.png`
+
+The implementation uses controlled synthetic data and an offline deterministic environment.
+
+---
 ## Learning Progress
 
 | Stage | Status |
